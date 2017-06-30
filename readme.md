@@ -7,6 +7,8 @@ Read more about:
 - [contributing](contributing.md)
 - [Flarum](http://flarum.org)
 
+Test for in-writing (non-public release)
+
 ## Structure
 
 - [/user](/user/index.md)
