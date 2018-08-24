@@ -1,6 +1,6 @@
 One of the most important things about creating an extension is releasing it to the world. Fortunately, this is a pretty simple process.
 
-## Preparing for the release
+## Preparing for release
 
 ### Repository
 
