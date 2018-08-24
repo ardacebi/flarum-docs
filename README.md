@@ -1,4 +1,4 @@
-# Flarum docs
+# Flarum Documentation
 
 This repository holds the documentation for Flarum.
 
