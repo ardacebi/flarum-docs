@@ -61,10 +61,10 @@ Check out [this page](https://github.com/Arkinn/docs/blob/master/extend/internat
 
 ### How do I become staff on Flarum Discuss?
 
-> "Through an arcane and arduous ordeal, involving mystic rituals, life-threatening peril and adventures to far off lands where many go and few return."
+> "Through an arcane and arduous ordeal, involving mystic rituals, life threatening peril and adventures to far off lands where many go and few return."
 >
 > ~ jordanjay29
 
-The real answer is that we generally keep an eye on our community for stand out members who would make a good staff. Honestly, for most of our current staff, what they did before becoming staff wasn't much different from what they do now.
+The real answer is that we generally keep an eye on our community for stand out members who would make good staff. Honestly, for most of our current staff, what they did before becoming staff wasn't much different from what they do now.
 
 Find a passion and contribute however you feel is best. Then let it take its course. You don't have to have a badge to be respected here.
